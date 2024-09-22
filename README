@@ -1,0 +1,5 @@
+sudo rm -rf LCD-show
+get clone --------
+chmod -R 755 LCD-show
+cd LCD-show/
+sudo ./LCD35-show
